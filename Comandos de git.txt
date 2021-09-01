@@ -1,0 +1,10 @@
+hola 
+
+<<<<<<< HEAD
+este es el cambio en la rama principal, donde una vez se hizo
+cambio en la secundaria jaja
+=======
+
+
+Este es el cambio de la rama secundaria jaja
+>>>>>>> otraRama

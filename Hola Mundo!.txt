@@ -1,0 +1,24 @@
+Hola Mundo!
+
+hola esta el la segunda entrada de este archivo.
+
+inicializar Git en una carpeta:
+    Git init
+Poner el usuario:
+    git config --name "nombre"
+Poner el email:
+    git config --name "correo"
+
+Revisar el historial de cambios:
+    git log
+
+regresar a un punto anterior:
+    git reset TAG --hard
+    git reset TAG --soft
+
+Diferencias entre un tag del log y otro
+    git diff
+
+crear una rama:
+    git branch <nombre_de_la_rama>
+
